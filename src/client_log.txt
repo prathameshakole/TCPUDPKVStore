@@ -1,0 +1,89 @@
+1728058712624: Pre-populating the key-value store.
+1728058712641: Sent request: put prathamesh 01
+1728058712664: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728058712666: Sent request: put aditya 02
+1728058712667: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728058712669: Sent request: put ishan 03
+1728058712669: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728058712671: Sent request: put dnyanesh 04
+1728058712672: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728058712673: Sent request: put kevin 05
+1728058712674: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728058712675: Pre-population complete.
+1728058712675: Performing automatic operations...
+1728058712676: Sent request: put angie 06
+1728058712677: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728058712678: Sent request: put martin 07
+1728058712679: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728058712681: Sent request: put kayla 08
+1728058712682: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728058712684: Sent request: put karina 09
+1728058712685: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728058712686: Sent request: put shishir 10
+1728058712687: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728058712688: Sent request: get martin
+1728058712689: Server Response: SUCCESS: martin:07
+1728058712691: Sent request: get aditya
+1728058712692: Server Response: SUCCESS: aditya:02
+1728058712693: Sent request: get shishir
+1728058712694: Server Response: SUCCESS: shishir:10
+1728058712696: Sent request: get kayla
+1728058712697: Server Response: SUCCESS: kayla:08
+1728058712698: Sent request: get ishan
+1728058712700: Server Response: SUCCESS: ishan:03
+1728058712701: Sent request: delete shishir
+1728058712702: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728058712703: Sent request: delete kayla
+1728058712704: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728058712706: Sent request: delete martin
+1728058712707: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728058712708: Sent request: delete karina
+1728058712709: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728058712710: Sent request: delete dnyanesh
+1728058712711: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728058712712: Automatic operations complete.
+1728083202865: Pre-populating the key-value store.
+1728083202884: Sent request: put prathamesh akole
+1728083202915: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728083202917: Sent request: put aditya shinde
+1728083202918: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728083202920: Sent request: put ishan sarode
+1728083202921: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728083202923: Sent request: put dnyanesh patil
+1728083202924: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728083202925: Sent request: put kevin marino
+1728083202926: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728083202927: Pre-population complete.
+1728083202927: Performing automatic operations...
+1728083202929: Sent request: put angel white
+1728083202930: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728083202931: Sent request: put martin king
+1728083202932: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728083202934: Sent request: put kayla holmes
+1728083202935: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728083202937: Sent request: put karina kaif
+1728083202938: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728083202939: Sent request: put dan bilt
+1728083202940: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728083202942: Sent request: get martin
+1728083202944: Server Response: SUCCESS: martin:king
+1728083202945: Sent request: get aditya
+1728083202946: Server Response: SUCCESS: aditya:shinde
+1728083202947: Sent request: get dan
+1728083202949: Server Response: SUCCESS: dan:bilt
+1728083202951: Sent request: get kayla
+1728083202952: Server Response: SUCCESS: kayla:holmes
+1728083202954: Sent request: get ishan
+1728083202955: Server Response: SUCCESS: ishan:sarode
+1728083202957: Sent request: delete dan
+1728083202958: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728083202959: Sent request: delete kayla
+1728083202960: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728083202961: Sent request: delete martin
+1728083202963: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728083202964: Sent request: delete karina
+1728083202965: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728083202966: Sent request: delete dnyanesh
+1728083202968: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728083202969: Automatic operations complete.
+1728083388028: ERROR : An unexpected error occurred: No line found

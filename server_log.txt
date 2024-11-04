@@ -1,0 +1,188 @@
+1728013769387: Received request: put prathamesh 01 from /127.0.0.1:56935
+1728013769402: Sent response: Key-Value Pair Saved Successfully!
+1728013769405: Received request: put aditya 02 from /127.0.0.1:56936
+1728013769405: Sent response: Key-Value Pair Saved Successfully!
+1728013769406: Received request: put ishan 03 from /127.0.0.1:56937
+1728013769407: Sent response: Key-Value Pair Saved Successfully!
+1728013769408: Received request: put dnyanesh 04 from /127.0.0.1:56938
+1728013769408: Sent response: Key-Value Pair Saved Successfully!
+1728013769410: Received request: put kevin 05 from /127.0.0.1:56939
+1728013769410: Sent response: Key-Value Pair Saved Successfully!
+1728013769412: Received request: put angie 06 from /127.0.0.1:56940
+1728013769412: Sent response: Key-Value Pair Saved Successfully!
+1728013769413: Received request: put martin 07 from /127.0.0.1:56941
+1728013769413: Sent response: Key-Value Pair Saved Successfully!
+1728013769414: Received request: put kayla 08 from /127.0.0.1:56942
+1728013769414: Sent response: Key-Value Pair Saved Successfully!
+1728013769415: Received request: put karina 09 from /127.0.0.1:56943
+1728013769415: Sent response: Key-Value Pair Saved Successfully!
+1728013769416: Received request: put shishir 10 from /127.0.0.1:56944
+1728013769417: Sent response: Key-Value Pair Saved Successfully!
+1728013769418: Received request: get martin from /127.0.0.1:56945
+1728013769419: Sent response: Value: 07
+1728013769420: Received request: get aditya from /127.0.0.1:56946
+1728013769420: Sent response: Value: 02
+1728013769421: Received request: get shishir from /127.0.0.1:56947
+1728013769421: Sent response: Value: 10
+1728013769422: Received request: get kayla from /127.0.0.1:56948
+1728013769422: Sent response: Value: 08
+1728013769423: Received request: get ishan from /127.0.0.1:56949
+1728013769423: Sent response: Value: 03
+1728013769425: Received request: delete shishir from /127.0.0.1:56950
+1728013769425: Sent response: Key-Value Pair Deleted Successfully!
+1728013769426: Received request: delete kayla from /127.0.0.1:56951
+1728013769427: Sent response: Key-Value Pair Deleted Successfully!
+1728013769428: Received request: delete martin from /127.0.0.1:56952
+1728013769428: Sent response: Key-Value Pair Deleted Successfully!
+1728013769429: Received request: delete karina from /127.0.0.1:56953
+1728013769429: Sent response: Key-Value Pair Deleted Successfully!
+1728013769430: Received request: delete dnyanesh from /127.0.0.1:56954
+1728013769431: Sent response: Key-Value Pair Deleted Successfully!
+1728013777901: Received request: put akole 65 from /127.0.0.1:56955
+1728013777901: Sent response: Key-Value Pair Saved Successfully!
+1728013781229: Received request: get akole from /127.0.0.1:56956
+1728013781229: Sent response: Value: 65
+1728013785922: Received request: delete akole from /127.0.0.1:56957
+1728013785922: Sent response: Key-Value Pair Deleted Successfully!
+1728014459459: 1728014459358 : UDP Server is running on port 1904
+1728014644428: UDP Server is running on port 1904
+1728014650299: Received request: put prathamesh 01 from /127.0.0.1:54616
+1728014650303: Sent response: Key-Value Pair Saved Successfully!
+1728014650304: Received request: put aditya 02 from /127.0.0.1:54617
+1728014650304: Sent response: Key-Value Pair Saved Successfully!
+1728014650305: Received request: put ishan 03 from /127.0.0.1:54618
+1728014650305: Sent response: Key-Value Pair Saved Successfully!
+1728014650306: Received request: put dnyanesh 04 from /127.0.0.1:54619
+1728014650306: Sent response: Key-Value Pair Saved Successfully!
+1728014650307: Received request: put kevin 05 from /127.0.0.1:54620
+1728014650308: Sent response: Key-Value Pair Saved Successfully!
+1728014650309: Received request: put angie 06 from /127.0.0.1:54621
+1728014650309: Sent response: Key-Value Pair Saved Successfully!
+1728014650311: Received request: put martin 07 from /127.0.0.1:54622
+1728014650311: Sent response: Key-Value Pair Saved Successfully!
+1728014650312: Received request: put kayla 08 from /127.0.0.1:54623
+1728014650312: Sent response: Key-Value Pair Saved Successfully!
+1728014650313: Received request: put karina 09 from /127.0.0.1:54624
+1728014650314: Sent response: Key-Value Pair Saved Successfully!
+1728014650315: Received request: put shishir 10 from /127.0.0.1:54625
+1728014650315: Sent response: Key-Value Pair Saved Successfully!
+1728014650317: Received request: get martin from /127.0.0.1:54626
+1728014650318: Sent response: Value: 07
+1728014650320: Received request: get aditya from /127.0.0.1:54627
+1728014650320: Sent response: Value: 02
+1728014650321: Received request: get shishir from /127.0.0.1:54628
+1728014650322: Sent response: Value: 10
+1728014650323: Received request: get kayla from /127.0.0.1:54629
+1728014650323: Sent response: Value: 08
+1728014650325: Received request: get ishan from /127.0.0.1:54630
+1728014650325: Sent response: Value: 03
+1728014650326: Received request: delete shishir from /127.0.0.1:54631
+1728014650326: Sent response: Key-Value Pair Deleted Successfully!
+1728014650327: Received request: delete kayla from /127.0.0.1:54632
+1728014650328: Sent response: Key-Value Pair Deleted Successfully!
+1728014650329: Received request: delete martin from /127.0.0.1:54633
+1728014650329: Sent response: Key-Value Pair Deleted Successfully!
+1728014650330: Received request: delete karina from /127.0.0.1:54634
+1728014650331: Sent response: Key-Value Pair Deleted Successfully!
+1728014650332: Received request: delete dnyanesh from /127.0.0.1:54635
+1728014650332: Sent response: Key-Value Pair Deleted Successfully!
+1728014663455: Received request: put akole  from /127.0.0.1:52838
+1728014663456: Sent response: Incorrect command
+1728014679566: Received request: put akole 63 from /127.0.0.1:59427
+1728014679566: Sent response: Key-Value Pair Saved Successfully!
+1728014687888: Received request: get akole from /127.0.0.1:54521
+1728014687888: Sent response: Value: 63
+1728014696568: Received request: delete akole 63 from /127.0.0.1:49457
+1728014696568: Sent response: Incorrect command
+1728014704432: Received request: delte akole from /127.0.0.1:65418
+1728014704436: Sent response: 1728014704432 : ERROR: Invalid command
+1728014905374: Received request: delete akole from /127.0.0.1:63028
+1728014905375: Sent response: Key-Value Pair Deleted Successfully!
+1728015874269: UDP Server is running on port 1904
+1728016194032: Received request: ping from /127.0.0.1:63217
+1728016194036: Sent response: ERROR: Invalid command
+1728016194119: Received request: put prathamesh 01 from /127.0.0.1:63218
+1728016194119: Sent response: Key-Value Pair Saved Successfully!
+1728016194125: Received request: put aditya 02 from /127.0.0.1:63219
+1728016194125: Sent response: Key-Value Pair Saved Successfully!
+1728016194126: Received request: put ishan 03 from /127.0.0.1:63220
+1728016194126: Sent response: Key-Value Pair Saved Successfully!
+1728016194127: Received request: put dnyanesh 04 from /127.0.0.1:63221
+1728016194127: Sent response: Key-Value Pair Saved Successfully!
+1728016194128: Received request: put kevin 05 from /127.0.0.1:63222
+1728016194128: Sent response: Key-Value Pair Saved Successfully!
+1728016194129: Received request: put angie 06 from /127.0.0.1:63223
+1728016194130: Sent response: Key-Value Pair Saved Successfully!
+1728016194130: Received request: put martin 07 from /127.0.0.1:63224
+1728016194130: Sent response: Key-Value Pair Saved Successfully!
+1728016194131: Received request: put kayla 08 from /127.0.0.1:63225
+1728016194131: Sent response: Key-Value Pair Saved Successfully!
+1728016194132: Received request: put karina 09 from /127.0.0.1:63226
+1728016194132: Sent response: Key-Value Pair Saved Successfully!
+1728016194133: Received request: put shishir 10 from /127.0.0.1:63227
+1728016194133: Sent response: Key-Value Pair Saved Successfully!
+1728016194134: Received request: get martin from /127.0.0.1:63228
+1728016194135: Sent response: Value: 07
+1728016194135: Received request: get aditya from /127.0.0.1:63229
+1728016194136: Sent response: Value: 02
+1728016194136: Received request: get shishir from /127.0.0.1:63230
+1728016194136: Sent response: Value: 10
+1728016194137: Received request: get kayla from /127.0.0.1:63231
+1728016194138: Sent response: Value: 08
+1728016194140: Received request: get ishan from /127.0.0.1:63232
+1728016194140: Sent response: Value: 03
+1728016194141: Received request: delete shishir from /127.0.0.1:63233
+1728016194141: Sent response: Key-Value Pair Deleted Successfully!
+1728016194142: Received request: delete kayla from /127.0.0.1:63234
+1728016194142: Sent response: Key-Value Pair Deleted Successfully!
+1728016194143: Received request: delete martin from /127.0.0.1:63235
+1728016194143: Sent response: Key-Value Pair Deleted Successfully!
+1728016194144: Received request: delete karina from /127.0.0.1:63236
+1728016194144: Sent response: Key-Value Pair Deleted Successfully!
+1728016194146: Received request: delete dnyanesh from /127.0.0.1:63237
+1728016194146: Sent response: Key-Value Pair Deleted Successfully!
+1728016872779: UDP Server is running on port 1904
+1728016879235: Received request: ping from /127.0.0.1:53693
+1728016879249: Sent response: ERROR: Invalid command
+1728016879349: Received request: put prathamesh 01 from /127.0.0.1:53694
+1728016879351: Sent response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879358: Received request: put aditya 02 from /127.0.0.1:53695
+1728016879358: Sent response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879359: Received request: put ishan 03 from /127.0.0.1:53696
+1728016879359: Sent response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879360: Received request: put dnyanesh 04 from /127.0.0.1:53697
+1728016879361: Sent response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879362: Received request: put kevin 05 from /127.0.0.1:53698
+1728016879362: Sent response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879363: Received request: put angie 06 from /127.0.0.1:53699
+1728016879363: Sent response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879364: Received request: put martin 07 from /127.0.0.1:53700
+1728016879365: Sent response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879366: Received request: put kayla 08 from /127.0.0.1:53701
+1728016879366: Sent response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879367: Received request: put karina 09 from /127.0.0.1:53702
+1728016879368: Sent response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879369: Received request: put shishir 10 from /127.0.0.1:53703
+1728016879369: Sent response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879371: Received request: get martin from /127.0.0.1:53704
+1728016879371: Sent response: SUCCESS: martin:07
+1728016879373: Received request: get aditya from /127.0.0.1:53705
+1728016879373: Sent response: SUCCESS: aditya:02
+1728016879374: Received request: get shishir from /127.0.0.1:53706
+1728016879375: Sent response: SUCCESS: shishir:10
+1728016879376: Received request: get kayla from /127.0.0.1:53707
+1728016879376: Sent response: SUCCESS: kayla:08
+1728016879377: Received request: get ishan from /127.0.0.1:53708
+1728016879378: Sent response: SUCCESS: ishan:03
+1728016879379: Received request: delete shishir from /127.0.0.1:53709
+1728016879379: Sent response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728016879380: Received request: delete kayla from /127.0.0.1:53710
+1728016879380: Sent response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728016879381: Received request: delete martin from /127.0.0.1:53711
+1728016879381: Sent response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728016879383: Received request: delete karina from /127.0.0.1:53712
+1728016879383: Sent response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728016879384: Received request: delete dnyanesh from /127.0.0.1:53713
+1728016879384: Sent response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728050702105: ERROR : Failed to start the server: Address already in use: Cannot bind
+1728050719193: UDP Server is running on port 1904

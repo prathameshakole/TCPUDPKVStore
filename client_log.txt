@@ -1,0 +1,196 @@
+1728013769263: Pre-populating the key-value store.
+1728013769404: Server Response: Key-Value Pair Saved Successfully!
+1728013769405: Server Response: Key-Value Pair Saved Successfully!
+1728013769407: Server Response: Key-Value Pair Saved Successfully!
+1728013769408: Server Response: Key-Value Pair Saved Successfully!
+1728013769410: Server Response: Key-Value Pair Saved Successfully!
+1728013769411: Pre-population complete.
+1728013769411: Performing automatic operations...
+1728013769412: Server Response: Key-Value Pair Saved Successfully!
+1728013769413: Server Response: Key-Value Pair Saved Successfully!
+1728013769414: Server Response: Key-Value Pair Saved Successfully!
+1728013769416: Server Response: Key-Value Pair Saved Successfully!
+1728013769417: Server Response: Key-Value Pair Saved Successfully!
+1728013769419: Server Response: Value: 07
+1728013769420: Server Response: Value: 02
+1728013769421: Server Response: Value: 10
+1728013769422: Server Response: Value: 08
+1728013769424: Server Response: Value: 03
+1728013769425: Server Response: Key-Value Pair Deleted Successfully!
+1728013769427: Server Response: Key-Value Pair Deleted Successfully!
+1728013769428: Server Response: Key-Value Pair Deleted Successfully!
+1728013769430: Server Response: Key-Value Pair Deleted Successfully!
+1728013769431: Server Response: Key-Value Pair Deleted Successfully!
+1728013769431: Automatic operations complete.
+1728013777901: Server Response: Key-Value Pair Saved Successfully!
+1728013781229: Server Response: Value: 65
+1728013785923: Server Response: Key-Value Pair Deleted Successfully!
+1728014650245: Pre-populating the key-value store.
+1728014650280: Sent request: put prathamesh 01
+1728014650300: Server Response: Key-Value Pair Saved Successfully!
+1728014650301: Sent request: put aditya 02
+1728014650304: Server Response: Key-Value Pair Saved Successfully!
+1728014650305: Sent request: put ishan 03
+1728014650305: Server Response: Key-Value Pair Saved Successfully!
+1728014650306: Sent request: put dnyanesh 04
+1728014650306: Server Response: Key-Value Pair Saved Successfully!
+1728014650307: Sent request: put kevin 05
+1728014650308: Server Response: Key-Value Pair Saved Successfully!
+1728014650308: Pre-population complete.
+1728014650308: Performing automatic operations...
+1728014650309: Sent request: put angie 06
+1728014650310: Server Response: Key-Value Pair Saved Successfully!
+1728014650311: Sent request: put martin 07
+1728014650311: Server Response: Key-Value Pair Saved Successfully!
+1728014650312: Sent request: put kayla 08
+1728014650312: Server Response: Key-Value Pair Saved Successfully!
+1728014650313: Sent request: put karina 09
+1728014650314: Server Response: Key-Value Pair Saved Successfully!
+1728014650315: Sent request: put shishir 10
+1728014650315: Server Response: Key-Value Pair Saved Successfully!
+1728014650317: Sent request: get martin
+1728014650319: Server Response: Value: 07
+1728014650320: Sent request: get aditya
+1728014650320: Server Response: Value: 02
+1728014650321: Sent request: get shishir
+1728014650322: Server Response: Value: 10
+1728014650323: Sent request: get kayla
+1728014650324: Server Response: Value: 08
+1728014650325: Sent request: get ishan
+1728014650325: Server Response: Value: 03
+1728014650326: Sent request: delete shishir
+1728014650326: Server Response: Key-Value Pair Deleted Successfully!
+1728014650327: Sent request: delete kayla
+1728014650328: Server Response: Key-Value Pair Deleted Successfully!
+1728014650329: Sent request: delete martin
+1728014650329: Server Response: Key-Value Pair Deleted Successfully!
+1728014650330: Sent request: delete karina
+1728014650331: Server Response: Key-Value Pair Deleted Successfully!
+1728014650332: Sent request: delete dnyanesh
+1728014650333: Server Response: Key-Value Pair Deleted Successfully!
+1728014650333: Automatic operations complete.
+1728014663455: Sent request: put akole 
+1728014663456: Server Response: Incorrect command
+1728014679566: Sent request: put akole 63
+1728014679566: Server Response: Key-Value Pair Saved Successfully!
+1728014687888: Sent request: get akole
+1728014687888: Server Response: Value: 63
+1728014696568: Sent request: delete akole 63
+1728014696568: Server Response: Incorrect command
+1728014704431: Sent request: delte akole
+1728014704437: Server Response: 1728014704432 : ERROR: Invalid command
+1728014905374: Sent request: delete akole
+1728014905375: Server Response: Key-Value Pair Deleted Successfully!
+1728014980844: Pre-populating the key-value store.
+1728014980878: Sent request: put prathamesh 01
+1728014983880: ERROR: Server response timeout for request: put prathamesh 01
+1728014983882: Sent request: put aditya 02
+1728014986897: ERROR: Server response timeout for request: put aditya 02
+1728014986899: Sent request: put ishan 03
+1728014989909: ERROR: Server response timeout for request: put ishan 03
+1728014989910: Sent request: put dnyanesh 04
+1728015298131: Pre-populating the key-value store.
+1728015298161: Sent request: put prathamesh 01
+1728015301171: ERROR: Server response timeout for request: put prathamesh 01
+1728015301172: Sent request: put aditya 02
+1728015544806: Pre-populating the key-value store.
+1728015544835: Sent request: put prathamesh 01
+1728015547844: ERROR: Server response timeout for request: put prathamesh 01
+1728015547846: Sent request: put aditya 02
+1728015731198: ERROR : Server is unreachable: Connection refused: connect
+1728015731209: ERROR : Server is not reachable. Please ensure the server is running.
+1728015772472: ERROR : Server is unreachable: Connection refused: connect
+1728015772486: ERROR : Server is not reachable. Please ensure the server is running.
+1728015862922: ERROR : Server is not reachable. Please ensure the server is running.
+1728015879267: ERROR : Server is not reachable. Please ensure the server is running.
+1728015910310: ERROR : Server is not reachable. Please ensure the server is running.
+1728016194105: UDP server is reachable.
+1728016194117: Pre-populating the key-value store.
+1728016194123: Sent request: put prathamesh 01
+1728016194124: Server Response: Key-Value Pair Saved Successfully!
+1728016194125: Sent request: put aditya 02
+1728016194125: Server Response: Key-Value Pair Saved Successfully!
+1728016194126: Sent request: put ishan 03
+1728016194126: Server Response: Key-Value Pair Saved Successfully!
+1728016194127: Sent request: put dnyanesh 04
+1728016194127: Server Response: Key-Value Pair Saved Successfully!
+1728016194128: Sent request: put kevin 05
+1728016194128: Server Response: Key-Value Pair Saved Successfully!
+1728016194128: Pre-population complete.
+1728016194129: Performing automatic operations...
+1728016194129: Sent request: put angie 06
+1728016194130: Server Response: Key-Value Pair Saved Successfully!
+1728016194130: Sent request: put martin 07
+1728016194130: Server Response: Key-Value Pair Saved Successfully!
+1728016194131: Sent request: put kayla 08
+1728016194131: Server Response: Key-Value Pair Saved Successfully!
+1728016194132: Sent request: put karina 09
+1728016194132: Server Response: Key-Value Pair Saved Successfully!
+1728016194133: Sent request: put shishir 10
+1728016194133: Server Response: Key-Value Pair Saved Successfully!
+1728016194134: Sent request: get martin
+1728016194135: Server Response: Value: 07
+1728016194135: Sent request: get aditya
+1728016194136: Server Response: Value: 02
+1728016194136: Sent request: get shishir
+1728016194137: Server Response: Value: 10
+1728016194137: Sent request: get kayla
+1728016194138: Server Response: Value: 08
+1728016194139: Sent request: get ishan
+1728016194140: Server Response: Value: 03
+1728016194141: Sent request: delete shishir
+1728016194141: Server Response: Key-Value Pair Deleted Successfully!
+1728016194142: Sent request: delete kayla
+1728016194142: Server Response: Key-Value Pair Deleted Successfully!
+1728016194143: Sent request: delete martin
+1728016194143: Server Response: Key-Value Pair Deleted Successfully!
+1728016194144: Sent request: delete karina
+1728016194145: Server Response: Key-Value Pair Deleted Successfully!
+1728016194146: Sent request: delete dnyanesh
+1728016194146: Server Response: Key-Value Pair Deleted Successfully!
+1728016194146: Automatic operations complete.
+1728016879330: UDP server is reachable.
+1728016879348: Pre-populating the key-value store.
+1728016879356: Sent request: put prathamesh 01
+1728016879356: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879357: Sent request: put aditya 02
+1728016879358: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879359: Sent request: put ishan 03
+1728016879359: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879360: Sent request: put dnyanesh 04
+1728016879361: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879362: Sent request: put kevin 05
+1728016879362: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879362: Pre-population complete.
+1728016879362: Performing automatic operations...
+1728016879363: Sent request: put angie 06
+1728016879363: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879364: Sent request: put martin 07
+1728016879365: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879366: Sent request: put kayla 08
+1728016879366: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879367: Sent request: put karina 09
+1728016879368: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879369: Sent request: put shishir 10
+1728016879369: Server Response: SUCCESS: Key-Value Pair Saved Successfully!
+1728016879370: Sent request: get martin
+1728016879372: Server Response: SUCCESS: martin:07
+1728016879373: Sent request: get aditya
+1728016879373: Server Response: SUCCESS: aditya:02
+1728016879374: Sent request: get shishir
+1728016879375: Server Response: SUCCESS: shishir:10
+1728016879376: Sent request: get kayla
+1728016879376: Server Response: SUCCESS: kayla:08
+1728016879377: Sent request: get ishan
+1728016879378: Server Response: SUCCESS: ishan:03
+1728016879378: Sent request: delete shishir
+1728016879379: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728016879380: Sent request: delete kayla
+1728016879380: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728016879381: Sent request: delete martin
+1728016879381: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728016879383: Sent request: delete karina
+1728016879383: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728016879384: Sent request: delete dnyanesh
+1728016879384: Server Response: SUCCESS: Key-Value Pair Deleted Successfully!
+1728016879385: Automatic operations complete.

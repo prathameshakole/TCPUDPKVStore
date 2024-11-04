@@ -1,0 +1,129 @@
+1728058657168: ERROR : Invalid port number.Please provide a valid port.
+1728058666977: TCP Server started on port 8000
+1728058666990: TCP Server is running on port 8000
+1728058712534: Client connected.
+1728058712546: Received malformed request from /127.0.0.1:60371
+1728058712635: Client connected.
+1728058712656: Received request from /127.0.0.1:60372 : put prathamesh 01
+1728058712664: Sent response to /127.0.0.1:60372 : SUCCESS: Key-Value Pair Saved Successfully!
+1728058712666: Client connected.
+1728058712666: Received request from /127.0.0.1:60373 : put aditya 02
+1728058712667: Sent response to /127.0.0.1:60373 : SUCCESS: Key-Value Pair Saved Successfully!
+1728058712669: Client connected.
+1728058712669: Received request from /127.0.0.1:60374 : put ishan 03
+1728058712669: Sent response to /127.0.0.1:60374 : SUCCESS: Key-Value Pair Saved Successfully!
+1728058712671: Client connected.
+1728058712671: Received request from /127.0.0.1:60375 : put dnyanesh 04
+1728058712672: Sent response to /127.0.0.1:60375 : SUCCESS: Key-Value Pair Saved Successfully!
+1728058712673: Client connected.
+1728058712674: Received request from /127.0.0.1:60376 : put kevin 05
+1728058712674: Sent response to /127.0.0.1:60376 : SUCCESS: Key-Value Pair Saved Successfully!
+1728058712676: Client connected.
+1728058712677: Received request from /127.0.0.1:60377 : put angie 06
+1728058712677: Sent response to /127.0.0.1:60377 : SUCCESS: Key-Value Pair Saved Successfully!
+1728058712678: Client connected.
+1728058712679: Received request from /127.0.0.1:60378 : put martin 07
+1728058712679: Sent response to /127.0.0.1:60378 : SUCCESS: Key-Value Pair Saved Successfully!
+1728058712681: Client connected.
+1728058712681: Received request from /127.0.0.1:60379 : put kayla 08
+1728058712682: Sent response to /127.0.0.1:60379 : SUCCESS: Key-Value Pair Saved Successfully!
+1728058712683: Client connected.
+1728058712685: Received request from /127.0.0.1:60380 : put karina 09
+1728058712685: Sent response to /127.0.0.1:60380 : SUCCESS: Key-Value Pair Saved Successfully!
+1728058712686: Client connected.
+1728058712686: Received request from /127.0.0.1:60381 : put shishir 10
+1728058712687: Sent response to /127.0.0.1:60381 : SUCCESS: Key-Value Pair Saved Successfully!
+1728058712688: Client connected.
+1728058712689: Received request from /127.0.0.1:60382 : get martin
+1728058712689: Sent response to /127.0.0.1:60382 : SUCCESS: martin:07
+1728058712691: Client connected.
+1728058712691: Received request from /127.0.0.1:60383 : get aditya
+1728058712692: Sent response to /127.0.0.1:60383 : SUCCESS: aditya:02
+1728058712693: Client connected.
+1728058712694: Received request from /127.0.0.1:60384 : get shishir
+1728058712694: Sent response to /127.0.0.1:60384 : SUCCESS: shishir:10
+1728058712696: Client connected.
+1728058712696: Received request from /127.0.0.1:60385 : get kayla
+1728058712697: Sent response to /127.0.0.1:60385 : SUCCESS: kayla:08
+1728058712698: Client connected.
+1728058712699: Received request from /127.0.0.1:60386 : get ishan
+1728058712700: Sent response to /127.0.0.1:60386 : SUCCESS: ishan:03
+1728058712701: Client connected.
+1728058712702: Received request from /127.0.0.1:60387 : delete shishir
+1728058712702: Sent response to /127.0.0.1:60387 : SUCCESS: Key-Value Pair Deleted Successfully!
+1728058712703: Client connected.
+1728058712704: Received request from /127.0.0.1:60388 : delete kayla
+1728058712704: Sent response to /127.0.0.1:60388 : SUCCESS: Key-Value Pair Deleted Successfully!
+1728058712706: Client connected.
+1728058712706: Received request from /127.0.0.1:60389 : delete martin
+1728058712707: Sent response to /127.0.0.1:60389 : SUCCESS: Key-Value Pair Deleted Successfully!
+1728058712708: Client connected.
+1728058712708: Received request from /127.0.0.1:60390 : delete karina
+1728058712709: Sent response to /127.0.0.1:60390 : SUCCESS: Key-Value Pair Deleted Successfully!
+1728058712710: Client connected.
+1728058712711: Received request from /127.0.0.1:60391 : delete dnyanesh
+1728058712711: Sent response to /127.0.0.1:60391 : SUCCESS: Key-Value Pair Deleted Successfully!
+1728083181759: TCP Server started on port 4000
+1728083181769: TCP Server is running on port 4000
+1728083202777: Client connected.
+1728083202786: Received malformed request from /127.0.0.1:59240
+1728083202878: Client connected.
+1728083202898: Received request from /127.0.0.1:59241 : put prathamesh akole
+1728083202914: Sent response to /127.0.0.1:59241 : SUCCESS: Key-Value Pair Saved Successfully!
+1728083202917: Client connected.
+1728083202918: Received request from /127.0.0.1:59242 : put aditya shinde
+1728083202918: Sent response to /127.0.0.1:59242 : SUCCESS: Key-Value Pair Saved Successfully!
+1728083202920: Client connected.
+1728083202921: Received request from /127.0.0.1:59243 : put ishan sarode
+1728083202921: Sent response to /127.0.0.1:59243 : SUCCESS: Key-Value Pair Saved Successfully!
+1728083202923: Client connected.
+1728083202923: Received request from /127.0.0.1:59244 : put dnyanesh patil
+1728083202924: Sent response to /127.0.0.1:59244 : SUCCESS: Key-Value Pair Saved Successfully!
+1728083202925: Client connected.
+1728083202926: Received request from /127.0.0.1:59245 : put kevin marino
+1728083202926: Sent response to /127.0.0.1:59245 : SUCCESS: Key-Value Pair Saved Successfully!
+1728083202928: Client connected.
+1728083202929: Received request from /127.0.0.1:59246 : put angel white
+1728083202929: Sent response to /127.0.0.1:59246 : SUCCESS: Key-Value Pair Saved Successfully!
+1728083202931: Client connected.
+1728083202931: Received request from /127.0.0.1:59247 : put martin king
+1728083202932: Sent response to /127.0.0.1:59247 : SUCCESS: Key-Value Pair Saved Successfully!
+1728083202934: Client connected.
+1728083202934: Received request from /127.0.0.1:59248 : put kayla holmes
+1728083202935: Sent response to /127.0.0.1:59248 : SUCCESS: Key-Value Pair Saved Successfully!
+1728083202937: Client connected.
+1728083202937: Received request from /127.0.0.1:59249 : put karina kaif
+1728083202938: Sent response to /127.0.0.1:59249 : SUCCESS: Key-Value Pair Saved Successfully!
+1728083202939: Client connected.
+1728083202940: Received request from /127.0.0.1:59250 : put dan bilt
+1728083202940: Sent response to /127.0.0.1:59250 : SUCCESS: Key-Value Pair Saved Successfully!
+1728083202942: Client connected.
+1728083202942: Received request from /127.0.0.1:59251 : get martin
+1728083202944: Sent response to /127.0.0.1:59251 : SUCCESS: martin:king
+1728083202945: Client connected.
+1728083202945: Received request from /127.0.0.1:59252 : get aditya
+1728083202946: Sent response to /127.0.0.1:59252 : SUCCESS: aditya:shinde
+1728083202947: Client connected.
+1728083202948: Received request from /127.0.0.1:59253 : get dan
+1728083202949: Sent response to /127.0.0.1:59253 : SUCCESS: dan:bilt
+1728083202951: Client connected.
+1728083202951: Received request from /127.0.0.1:59254 : get kayla
+1728083202952: Sent response to /127.0.0.1:59254 : SUCCESS: kayla:holmes
+1728083202954: Client connected.
+1728083202954: Received request from /127.0.0.1:59255 : get ishan
+1728083202955: Sent response to /127.0.0.1:59255 : SUCCESS: ishan:sarode
+1728083202957: Client connected.
+1728083202957: Received request from /127.0.0.1:59256 : delete dan
+1728083202958: Sent response to /127.0.0.1:59256 : SUCCESS: Key-Value Pair Deleted Successfully!
+1728083202959: Client connected.
+1728083202959: Received request from /127.0.0.1:59257 : delete kayla
+1728083202960: Sent response to /127.0.0.1:59257 : SUCCESS: Key-Value Pair Deleted Successfully!
+1728083202961: Client connected.
+1728083202961: Received request from /127.0.0.1:59258 : delete martin
+1728083202963: Sent response to /127.0.0.1:59258 : SUCCESS: Key-Value Pair Deleted Successfully!
+1728083202964: Client connected.
+1728083202964: Received request from /127.0.0.1:59259 : delete karina
+1728083202965: Sent response to /127.0.0.1:59259 : SUCCESS: Key-Value Pair Deleted Successfully!
+1728083202966: Client connected.
+1728083202967: Received request from /127.0.0.1:59260 : delete dnyanesh
+1728083202968: Sent response to /127.0.0.1:59260 : SUCCESS: Key-Value Pair Deleted Successfully!
